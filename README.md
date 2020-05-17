@@ -1,6 +1,13 @@
 # az400-study
 AZ400 Study Material Compilation
 
+| Title | Link |
+| --- | --- |
+| MS Learn - Evolve your DevOps practices | [https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/](https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/) |
+| MS Learn - Build applications with Azure DevOps | [https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/](https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/) |
+| MS Learn - Deploy applications with Azure DevOps | [https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/](https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/) |
+| MS Learn - Automate your deployments with Azure DevOps | [https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/](https://docs.microsoft.com/en-us/learn/paths/automate-deployments-azure-devops/) |
+
 https://docs.microsoft.com/en-us/learn/certifications/exams/az-400
 
 https://www.pluralsight.com/paths/microsoft-azure-devops-engineer-az-400
